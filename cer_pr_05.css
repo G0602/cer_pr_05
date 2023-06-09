@@ -2,3 +2,14 @@
 box-sizing: border-box;
 }
 
+#nav-bar{
+    width: 100%;
+    height: 30px;
+    background: linear-gradient(black 0%,whitw 50%,black 100%);
+}
+
+#welcome_section{
+    width:100%; 
+    height: 100vh;
+
+}
